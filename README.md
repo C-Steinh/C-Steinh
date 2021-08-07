@@ -1,3 +1,5 @@
+# Introduction
+
 - 👋 Hi, I’m @C-Steinh
 - 👀 I’m interested in neuroengineering and systems neuroscience
 - 🌱 I’m currently learning about pulsatile and DC stimulation of vestibular afferents
